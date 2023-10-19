@@ -1,3 +1,4 @@
+//SPDX-FilecopyrightText: 2023 Ryotaro Karikomi ryotaro.karikomi@gmail.com
 #include <stdio.h>
 #include <stdlib.h>
 
